@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/krupalp525-fledge-mcp-badge.png)](https://mseep.ai/app/krupalp525-fledge-mcp)
+
 # Fledge MCP Server
 
 This is a Model Context Protocol (MCP) server that connects Fledge functionality to Cursor AI, allowing the AI to interact with Fledge instances via natural language commands.
